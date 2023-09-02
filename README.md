@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Adnan Faruk</h1>
-<h3 align="center">A Fullstack Web Developer with the Passion for Transforming Concepts into Digital Reality</h3>
+<h3 align="center">A Fullstack Web Developer (MERN) with the Passion for Transforming Concepts into Digital Reality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan059&label=Profile%20views&color=0e75b6&style=flat" alt="adnan059" /> </p>
 
